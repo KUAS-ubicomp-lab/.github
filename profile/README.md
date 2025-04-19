@@ -1,4 +1,5 @@
-# [Ubiquitous and Personal Computing Lab](https://www.ubicomp-lab.org)👋 - Computing for Anyone, at Anytime, Anywhere
+# [Ubiquitous and Personal Computing Lab](https://www.ubicomp-lab.org)👋 
+## Computing for Anyone, at Anytime, Anywhere
 
 We research, develop and validate novel computing technologies to improve health, productivity, and well-being of individuals.  
 
